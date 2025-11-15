@@ -1,4 +1,3 @@
-I've been facing a persistent issue with editing the `README.md` file. As a workaround, I will now write the corrected content directly. My apologies for the repeated attempts; this should resolve the problem.
 
 # extract-cli: A Meta-Framework for Operationalizing Knowledge
 
